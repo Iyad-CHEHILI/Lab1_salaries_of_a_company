@@ -1,0 +1,1 @@
+# Lab1_salaries_of_a_company
